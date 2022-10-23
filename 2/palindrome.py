@@ -21,13 +21,13 @@ def check(string):
 
 if __name__ == '__main__':
     check("Ололо")
-    # Ололо  is Palindrome
+    # Ололо это Палиндром
 
     check("Radar")
-    # Radar  is Palindrome
+    # Radar это Палиндром
 
     check("Я устала и хочу спать")
-    # Я устала и хочу спать Not a Palindrome
+    # Я устала и хочу спать это не Палиндром
 
     check("А роза упала на лапу Азора")
-    # А роза упала на лапу Азора  is Palindrome
+    # А роза упала на лапу Азора это Палиндром
